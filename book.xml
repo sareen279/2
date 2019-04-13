@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<bookstore>
+	<book>
+		<title>WT</title>
+		<author>A</author>
+		<price>100</price>
+		<year>2002</year>
+	</book>
+	<book>
+		<title>SPOS</title>
+		<author>B</author>
+		<price>200</price>
+		<year>2005</year>
+	</book>
+	<book>
+		<title>IOT</title>
+		<author>C</author>
+		<price>350</price>
+		<year>2008</year>
+	</book>
+	<book>
+		<title>DAA</title>
+		<author>D</author>
+		<price>40</price>
+		<year>2003</year>
+	</book>
+</bookstore>
